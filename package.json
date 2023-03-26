@@ -10,12 +10,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/gip16/ajs-platforms.git"
+    "url": "git+ssh://git@github.com/gip16/ajs.git"
   },
   "bugs": {
-    "url": "https://github.com/gip16/ajs-platforms/issues"
+    "url": "https://github.com/gip16/ajs/issues"
   },
-  "homepage": "https://github.com/gip16/ajs-platforms#readme",
+  "homepage": "https://github.com/gip16/ajs#readme",
   "description": "",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
