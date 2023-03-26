@@ -1,6 +1,6 @@
 {
-  "name": "@gip16/ajs-platforms",
-  "version": "1.0.1",
+  "name": "@gip16/ajs",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack --mode production",
